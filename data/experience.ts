@@ -17,11 +17,11 @@ export const experience: Experience[] = [
         en: "Frontend developer on the redesign of the company's core system interfaces, including the authentication module.",
         es: "Desarrollador frontend en el rediseño de las interfaces del sistema principal de la empresa, incluido el módulo de autenticación.",
       },
+      {
+        en: "Built custom components with CSS, Java, JSF, and PrimeFaces, focused on improving user experience.",
+        es: "Desarrollo de componentes personalizados con CSS, Java, JSF y PrimeFaces, enfocado en mejorar la experiencia de usuario.",
+      },
     ],
-    note: {
-      en: "Built custom components with CSS, Java, JSF, and PrimeFaces, focused on improving user experience.",
-      es: "Desarrollo de componentes personalizados con CSS, Java, JSF y PrimeFaces, enfocado en mejorar la experiencia de usuario.",
-    },
   },
   {
     id: "banco-ademi",
