@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter, Sora } from "next/font/google";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { notFound } from "next/navigation";
+import { SkipLink } from "../../components/SkipLink";
 import { profile } from "../../data/profile";
 import { routing } from "../../i18n/routing";
 import "../globals.css";
@@ -42,7 +43,12 @@ export default async function LocaleLayout({
       className={`${inter.variable} ${sora.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
-        <NextIntlClientProvider>{children}</NextIntlClientProvider>
+        <NextIntlClientProvider>
+          <SkipLink />
+          <main id="main" className="flex-1">
+            {children}
+          </main>
+        </NextIntlClientProvider>
       </body>
     </html>
   );
