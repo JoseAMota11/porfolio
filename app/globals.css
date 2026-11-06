@@ -10,7 +10,8 @@
   --accent: #c9f24d;
   --border: #262626;
 
-  --scroll-offset: 5rem;
+  /* Navbar height (h-16). */
+  --scroll-offset: 4rem;
 }
 
 @theme inline {
