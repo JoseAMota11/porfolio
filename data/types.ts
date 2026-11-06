@@ -9,6 +9,7 @@ export type Experience = {
   location: string;
   mode: Localized;
   highlights: Localized[];
+  note?: Localized;
 };
 
 export type Project = {
