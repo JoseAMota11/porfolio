@@ -66,7 +66,7 @@ Personal portfolio of a frontend developer (React, Next.js, TypeScript) who is j
 - `i18n/`: `routing.ts`, `request.ts`, `navigation.ts`.
 - `messages/`: translation JSON files and `parity.ts`.
 - `lib/site.ts`: resolves the site URL from `NEXT_PUBLIC_SITE_URL`, falling back to `http://localhost:3000`.
-- `public/`: images and CVs (`cv-en.pdf`, `cv-es.pdf`).
+- `public/`: images and CVs (CV_JoseMota_Developer.pdf for en, CV_JoseMota_Desarrollador.pdf for es).
 - Home page: one page per locale with sections in this order: Hero, About, Projects, Experience, Skills, Contact. Navbar links scroll to the section anchors.
 - Projects: cards with description, stack, and links (demo, repo). No detail pages.
 - Contact: links only (email, LinkedIn, GitHub) and a CV download button per locale. No form, no backend.

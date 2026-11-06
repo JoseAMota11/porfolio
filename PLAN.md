@@ -14,7 +14,7 @@ These override anything else in this plan.
 - Namespace `common` holds strings shared across sections (e.g. `downloadCv`).
 
 ## Owner tasks (not agent steps)
-- Before step 7: fill `TODO:` items in `data/` (tagline, GitHub, LinkedIn, project descriptions/stack/URLs) and add `public/cv-en.pdf`, `public/cv-es.pdf`.
+- Before step 7: fill `TODO:` items in `data/` (tagline, GitHub, LinkedIn, project descriptions/stack/URLs) and add `public/CV_JoseMota_Developer.pdf`, `public/CV_JoseMota_Desarrollador.pdf`.
 - After step 14: manual QA, final TODO sweep, Vercel deploy.
 
 ## Steps
