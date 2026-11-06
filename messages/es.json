@@ -48,6 +48,12 @@
     "rights": "© {year} {name}. Todos los derechos reservados.",
     "backToTop": "Volver arriba"
   },
+  "notFound": {
+    "code": "404",
+    "title": "Página no encontrada",
+    "description": "La página que buscas no existe.",
+    "backHome": "Volver al inicio"
+  },
   "a11y": {
     "skipToContent": "Saltar al contenido",
     "mainNavigation": "Navegación principal",

@@ -48,6 +48,12 @@
     "rights": "© {year} {name}. All rights reserved.",
     "backToTop": "Back to top"
   },
+  "notFound": {
+    "code": "404",
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist.",
+    "backHome": "Go to the homepage"
+  },
   "a11y": {
     "skipToContent": "Skip to content",
     "mainNavigation": "Main navigation",
