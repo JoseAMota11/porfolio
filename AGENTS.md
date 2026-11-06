@@ -73,7 +73,7 @@ Personal portfolio of a frontend developer (React, Next.js, TypeScript) who is j
 
 ## Content (critical rule)
 - **Do not invent** projects, metrics, technologies, companies, or dates.
-- Total experience: 3 years (frontend). Java/JSF/PrimeFaces is recent experience of about 7 months, shown as a separate note, never added to the 3 years and never presented as years of Java expertise.
+- Total experience: 3 years as a frontend developer, including the most recent ~9 months at Cevaldom on a JSF/PrimeFaces stack. Mention that stack as a separate note; never present it as years of Java expertise.
 - No filler phrases. Short, concrete text.
 
 ## Design

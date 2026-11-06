@@ -4,7 +4,7 @@ export const skills: SkillGroup[] = [
   {
     id: "frontend",
     title: { en: "Frontend", es: "Frontend" },
-    items: ["React.js", "Next.js", "TypeScript", "JavaScript", "HTML5", "CSS3", "Tailwind CSS", "SASS", "Bootstrap", "Ant Design", "JSF & PrimeFaces", "Angular"],
+    items: ["React.js", "Next.js", "TypeScript", "JavaScript", "HTML5", "CSS3", "Tailwind CSS", "SASS", "Zustand", "Bootstrap", "Ant Design", "JSF & PrimeFaces", "Angular"],
   },
   {
     id: "backend",
@@ -13,12 +13,12 @@ export const skills: SkillGroup[] = [
   },
   {
     id: "tools",
-    title: { en: "Tools & Methodologies", es: "Herramientas y Metodologías" },
-    items: ["Git", "GitHub", "GitLab", "Figma", "Zustand"],
+    title: { en: "Tools", es: "Herramientas" },
+    items: ["Git", "GitHub", "GitLab", "Figma"],
   },
   {
     id: "ai",
-    title: { en: "AI & Productivity Tools", es: "Herramientas de IA y Productividad" },
-    items: ["Cursor", "Claude Code", "GitHub Copilot", "OpenCode", "Codex", "ChatGPT", "Perplexity", "Gemini"],
+    title: { en: "AI Coding Tools", es: "Herramientas de IA para desarrollo" },
+    items: ["Cursor", "Claude Code", "GitHub Copilot", "OpenCode", "Codex"],
   },
 ];

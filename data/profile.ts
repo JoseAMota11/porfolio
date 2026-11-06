@@ -6,13 +6,17 @@ export const profile = {
     en: "Software Developer",
     es: "Desarrollador de Software",
   } satisfies Localized,
+  tagline: {
+    en: "I build fast, accessible web interfaces with React and Next.js.",
+    es: "Construyo interfaces web rápidas y accesibles con React y Next.js.",
+  } satisfies Localized,
   summary: {
-    en: "Software developer with 3 years of experience building modern, fast, and efficient web interfaces. Proficient in React.js, Next.js, TypeScript, and Tailwind CSS. Strong background in routing, authentication, accessibility, testing, and clean architecture principles such as SOLID and design patterns. Focused on user experience and high-performance architectures.",
-    es: "Desarrollador de software con 3 años de experiencia creando interfaces web modernas, rápidas y eficientes. Dominio de React.js, Next.js, TypeScript y Tailwind CSS. Sólida base en enrutamiento, autenticación, accesibilidad, pruebas y principios de arquitectura limpia como SOLID y patrones de diseño. Enfocado en la experiencia de usuario y en arquitecturas de alto rendimiento.",
+    en: "Frontend developer building web interfaces with React, Next.js, TypeScript, and Tailwind CSS. Focused on accessibility, performance, and clean, maintainable code.",
+    es: "Desarrollador frontend que crea interfaces web con React, Next.js, TypeScript y Tailwind CSS. Enfocado en accesibilidad, rendimiento y código limpio y mantenible.",
   } satisfies Localized,
   email: "jose.a.mota11@gmail.com",
-  github: "TODO: GitHub URL",
-  linkedin: "TODO: LinkedIn URL",
+  github: "https://github.com/JoseAMota11",
+  linkedin: "https://www.linkedin.com/in/josemota11/",
   languages: [
     { name: { en: "Spanish", es: "Español" }, level: { en: "Native", es: "Nativo" } },
     { name: { en: "English", es: "Inglés" }, level: { en: "C1", es: "C1" } },

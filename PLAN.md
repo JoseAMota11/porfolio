@@ -6,7 +6,7 @@ Verified base: Next.js 16.4.5, React 19.3.0, next-intl 4.14.9, Tailwind 4. No ne
 These override anything else in this plan.
 - `defaultLocale: "en"`. `x-default` → `/en`. `/` sends Spanish browsers to `/es`, everyone else to `/en`.
 - Accent: lime `#C9F24D` only. Headings: Sora. Body: Inter. No other accent.
-- Java/JSF/PrimeFaces: separate note on the Cevaldom entry ("~7 months"). Never added to the 3 years of frontend.
+- Java/JSF/PrimeFaces: separate note on the Cevaldom entry ("~9 months"). Cevaldom counts toward the 3 years of frontend; never present it as Java expertise.
 - Site URL: `NEXT_PUBLIC_SITE_URL`, fallback `http://localhost:3000`. Production domain: TODO (owner).
 - Deploy target: Vercel (`proxy.ts` needs a server runtime; no static export).
 - Content (`data/`, CV PDFs, tagline, links): filled by the owner, never by the agent. Missing → visible `TODO:`.
