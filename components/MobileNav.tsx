@@ -47,7 +47,7 @@ export function MobileNav({
         aria-controls="mobile-nav"
         aria-label={isOpen ? closeLabel : openLabel}
         onClick={() => setIsOpen((open) => !open)}
-        className="flex h-10 w-10 items-center justify-center rounded-md border border-border text-foreground transition-colors hover:border-accent hover:text-accent"
+        className="flex h-11 w-11 items-center justify-center rounded-md border border-border text-foreground transition-colors hover:border-accent hover:text-accent"
       >
         <svg
           aria-hidden="true"

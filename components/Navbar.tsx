@@ -17,7 +17,7 @@ export async function Navbar() {
   ];
 
   return (
-    <header className="sticky top-0 z-40 border-b border-border bg-background/85 backdrop-blur">
+    <header className="sticky top-0 z-40 border-b border-border bg-background">
       <Container className="flex h-16 items-center justify-between gap-6">
         <a
           href="#main"
