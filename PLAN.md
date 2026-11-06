@@ -11,6 +11,7 @@ These override anything else in this plan.
 - Deploy target: Vercel (`proxy.ts` needs a server runtime; no static export).
 - Content (`data/`, CV PDFs, tagline, links): filled by the owner, never by the agent. Missing → visible `TODO:`.
 - Section order on the page: Hero, About, Projects, Experience, Skills, Contact, even if built in another order.
+- Namespace `common` holds strings shared across sections (e.g. `downloadCv`).
 
 ## Owner tasks (not agent steps)
 - Before step 7: fill `TODO:` items in `data/` (tagline, GitHub, LinkedIn, project descriptions/stack/URLs) and add `public/cv-en.pdf`, `public/cv-es.pdf`.

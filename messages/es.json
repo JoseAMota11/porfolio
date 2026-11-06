@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "defaultTitle": "{name} — {role}",
+    "openGraphAlt": "Portafolio de {name}, {role}"
+  },
+  "nav": {
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "experience": "Experiencia",
+    "skills": "Habilidades",
+    "contact": "Contacto",
+    "language": "Idioma"
+  },
+  "hero": {
+    "viewProjects": "Ver proyectos",
+    "contactMe": "Contáctame"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "languagesTitle": "Idiomas",
+    "educationTitle": "Educación"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "stackLabel": "Tecnologías",
+    "viewDemo": "Demo",
+    "viewRepo": "Código fuente"
+  },
+  "experience": {
+    "title": "Experiencia",
+    "current": "Actual",
+    "present": "Presente"
+  },
+  "skills": {
+    "title": "Habilidades"
+  },
+  "contact": {
+    "title": "Contacto",
+    "intro": "Abierto a nuevas oportunidades: el correo es la mejor vía.",
+    "email": "Correo",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "common": {
+    "downloadCv": "Descargar CV"
+  },
+  "footer": {
+    "rights": "© {year} {name}. Todos los derechos reservados.",
+    "backToTop": "Volver arriba"
+  },
+  "a11y": {
+    "skipToContent": "Saltar al contenido",
+    "mainNavigation": "Navegación principal",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "switchLanguage": "Cambiar idioma",
+    "externalLink": "Se abre en una pestaña nueva"
+  }
+}

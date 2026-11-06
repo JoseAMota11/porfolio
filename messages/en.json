@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "defaultTitle": "{name} — {role}",
+    "openGraphAlt": "Portfolio of {name}, {role}"
+  },
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "experience": "Experience",
+    "skills": "Skills",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "viewProjects": "View projects",
+    "contactMe": "Contact me"
+  },
+  "about": {
+    "title": "About",
+    "languagesTitle": "Languages",
+    "educationTitle": "Education"
+  },
+  "projects": {
+    "title": "Projects",
+    "stackLabel": "Stack",
+    "viewDemo": "Live demo",
+    "viewRepo": "Source code"
+  },
+  "experience": {
+    "title": "Experience",
+    "current": "Current",
+    "present": "Present"
+  },
+  "skills": {
+    "title": "Skills"
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "Open to new opportunities — email works best.",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "common": {
+    "downloadCv": "Download CV"
+  },
+  "footer": {
+    "rights": "© {year} {name}. All rights reserved.",
+    "backToTop": "Back to top"
+  },
+  "a11y": {
+    "skipToContent": "Skip to content",
+    "mainNavigation": "Main navigation",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "switchLanguage": "Switch language",
+    "externalLink": "Opens in a new tab"
+  }
+}
